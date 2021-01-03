@@ -1,0 +1,44 @@
+﻿  dllmain.cpp
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(33,16): warning C4251: 'Zmogus::vardas_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Zmogus'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(34,16): warning C4251: 'Zmogus::pavard_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Zmogus'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(48,17): warning C4251: 'Studentas::nd_': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Studentas'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(48): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(91,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(92,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(100,40): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(100,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(103,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(104,20): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(106,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(132,15): warning C4251: 'studentas::vardas': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'studentas'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(132,23): warning C4251: 'studentas::pavard': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'studentas'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(133,19): warning C4251: 'studentas::nd': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of struct 'studentas'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\Dll.h(133): message : see declaration of 'std::vector<float,std::allocator<float>>'
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(58,28): warning C4101: 'e': unreferenced local variable
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(122,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(226,35): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(228,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(238,61): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(241,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(244,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(181,28): warning C4101: 'e': unreferenced local variable
+D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Dll\dllmain.cpp(255,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+     Creating library D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Release\Dll.lib and object D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Release\Dll.exp
+  Generating code
+  18 of 678 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dll.vcxproj -> D:\Users\User\Desktop\studijos\antras kursas\Objektinis programavimas\projektas_2\amsiejus_v3.0\Release\Dll.dll
